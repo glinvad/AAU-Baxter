@@ -4,13 +4,13 @@ A short GitHub for working with the AAU Baxter robot in AAU Smart production Lab
 
 
 ## Baxter username and password
-** network SSID: AAU-BaxterHome **
+**network SSID: AAU-BaxterHome **
 
-** IP: 192.168.1.25 **
+**IP: 192.168.1.25 **
 
-** user: ruser **
+**user: ruser **
 
-** pass:** *look at the robot* 
+**pass:** *look at the robot* 
 
 ## AAU Baxter ID
 [baxter - http://odin.local:11311}]
