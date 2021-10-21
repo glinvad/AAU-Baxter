@@ -10,7 +10,7 @@ A short GitHub for working with the AAU Baxter robot in AAU Smart production Lab
 
 ** user: ruser **
 
-** pass: <look at the robot> **
+** pass:** *look at the robot* 
 
 ## AAU Baxter ID
 [baxter - http://odin.local:11311}]
