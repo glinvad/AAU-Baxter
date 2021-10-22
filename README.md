@@ -22,4 +22,6 @@ A short GitHub for working with the AAU Baxter robot in AAU Smart production Lab
 
 [Rethink Robotics SDK Baxter - GitHub](https://github.com/RethinkRobotics/baxter)
  
+[Intro to Baxter (UHCL)](https://sceweb.sce.uhcl.edu/harman/CENG5931Baxter2015/Guides/BAXTER_Introduction_2_08_2016.pdf) 
+ 
 ![AAU logo](https://github.com/glinvad/AAU-Baxter/blob/main/Pic/AAUlogo.png)
